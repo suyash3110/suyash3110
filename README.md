@@ -1,4 +1,4 @@
-## # Hi, I'm Suyash Ranjan 👋
+## Hi, I'm Suyash Ranjan 👋
 
 ### 👨‍💻 Who am I?
 ECE undergraduate at NIT Jamshedpur passionate about Software Development, Backend Engineering, and Problem Solving. I enjoy building practical solutions and continuously improving my DSA and development skills.
