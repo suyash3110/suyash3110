@@ -20,7 +20,6 @@ ECE undergraduate at NIT Jamshedpur passionate about Software Development, Backe
 ### 📫 Reach Me
 📧 **Email:** `suyash.ranjan2k@gmail.com`  
 💼 **LinkedIn:** [suyash-ranjan-01148a327](https://linkedin.com/in/suyash-ranjan-01148a327)  
-⚡ **Codeforces:** `suyash.ranjan2k`
 
 <!--
 **suyash3110/suyash3110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
